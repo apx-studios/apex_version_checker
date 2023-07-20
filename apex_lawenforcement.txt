@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Fixed some bugs & added qb-skillbar minigame"}
+{"version":"1.0.4", "notes":"Bugfixes for Jailing, Radial Menu and more"}
