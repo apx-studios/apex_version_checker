@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"Release"}
+{"version":"1.0.3", "notes":"Added additional support for more scripts and more features"}
