@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Bugfixes for Jailing, Radial Menu and more"}
+{"version":"1.0.5", "notes":"Bugfixes for Keymapping"}
