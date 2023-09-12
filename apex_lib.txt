@@ -1,1 +1,1 @@
-{"version":"1.0.5", "notes":"Added codem-notification support"}
+{"version":"1.0.6", "notes":"Bugfixes, vehicle & fuel support changes"}
