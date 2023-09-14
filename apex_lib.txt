@@ -1,1 +1,1 @@
-{"version":"1.0.6", "notes":"Bugfixes, vehicle & fuel support changes"}
+{"version":"1.0.7", "notes":"Updated emotemenu exports"}
