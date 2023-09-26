@@ -1,1 +1,1 @@
-{"version":"1.1.1", "notes":"Fixed anklet not working"}
+{"version":"1.1.1", "notes":"Fixed anklet not working: client, server & locale folder has been updated"}
