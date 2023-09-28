@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"Updated emotemenu exports"}
+{"version":"1.0.8", "notes":"Added codem-inventory support"}
