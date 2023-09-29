@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Bugfixes & Vehiclekey support"}
+{"version":"1.0.4", "notes":"Bugfixes + Added codem-inventory support"}
