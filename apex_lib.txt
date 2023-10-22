@@ -1,1 +1,1 @@
-{"version":"1.0.8", "notes":"Added codem-inventory support"}
+{"version":"1.0.9", "notes":"Added support for Redutzu, Quasar and RCORE Scripts, aswell as added 3dme chat into the library script. For more details, read the Discord update post."}
