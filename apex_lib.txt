@@ -1,1 +1,1 @@
-{"version":"1.0.9", "notes":"Added support for Redutzu, Quasar and RCORE Scripts, aswell as added 3dme chat into the library script. For more details, read the Discord update post."}
+{"version":"1.1.0", "notes":"Added support for okok Gas Station"}
