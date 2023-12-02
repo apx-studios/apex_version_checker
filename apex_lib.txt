@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"Added support for okok Gas Station"}
+{"version":"1.1.1", "notes":"Added support for Jaksam Vehicle Keys"}
