@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Bugfixes + Added codem-inventory support"}
+{"version":"1.0.4", "notes":"Fixed Healing issue"}
