@@ -1,2 +1,2 @@
-{"version":"1.0.3", "notes":"Bugfixes (Fixed server error, causing brick not to be given)"}
+{"version":"1.0.3", "notes":"Bugfix (Fixed server error, causing brick not to be given)"}
 
