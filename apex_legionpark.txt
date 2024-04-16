@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Fixed Healing issue"}
+{"version":"1.0.5", "notes":"Emote Menu Removal + File Structure Update"}
