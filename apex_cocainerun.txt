@@ -1,2 +1,1 @@
-{"version":"1.0.3", "notes":"Bugfix (Fixed server error, causing brick not to be given)"}
-
+{"version":"1.0.4", "notes":"Emote Menu Removal, File Structure Update + Bugfixes"}
