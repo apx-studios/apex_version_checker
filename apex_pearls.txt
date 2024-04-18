@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Bugfixes + Added codem-inventory support"}
+{"version":"1.0.5", "notes":"Emote Menu Removal, File Structure Update + Bugfixes"}
