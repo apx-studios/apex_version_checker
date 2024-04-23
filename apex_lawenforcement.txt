@@ -1,1 +1,1 @@
-{"version":"1.1.5", "notes":"Removed bloat code from the files + Cuff issues fix - Some features has been removed, since they caused the issue"}
+{"version":"1.1.6", "notes":"Removed bloat code from the files + Cuff issues fix - Some features has been removed, since they caused the issue"}
