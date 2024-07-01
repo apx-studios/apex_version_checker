@@ -1,1 +1,1 @@
-{"version":"1.0.6", "notes":"Emote Menu Removal, File Structure Update + Bugfixes"}
+{"version":"1.0.7", "notes":"QB Inventory V2 Support, Shop Changes & Bugfixes"}
