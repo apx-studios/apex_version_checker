@@ -1,1 +1,1 @@
-{"version":"1.1.7", "notes":"QB Inventory V2 Support, Shop Changes & Bugfixes"}
+{"version":"1.1.8", "notes":"QB Inventory V2 Support, Shop Changes & Bugfixes (Searching and Cuffing show now work"}
