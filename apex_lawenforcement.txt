@@ -1,1 +1,1 @@
-{"version":"1.1.8", "notes":"QB Inventory V2 Support, Shop Changes & Bugfixes (Searching and Cuffing show now work"}
+{"version":"1.1.9", "notes":"Added support for codem-inventory, origin_inventory + Minor bugfixes"}
