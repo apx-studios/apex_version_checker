@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"QB Inventory V2 Support, Shop Changes & Bugfixes"}
+{"version":"1.0.4", "notes":"Shop Changes & Bugfixes"}
