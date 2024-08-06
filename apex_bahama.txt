@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"QB Inventory V2 Support, Shop Changes & Bugfixes"}
+{"version":"1.0.8", "notes":"Added support for codem-inventory, origin_inventory + Minor bugfixes"}
