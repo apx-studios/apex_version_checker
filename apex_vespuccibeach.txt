@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Shop Changes & Bugfixes"}
+{"version":"1.0.5", "notes":"Fixed money glitch + Added the option to adjust ped seperate from the target"}
