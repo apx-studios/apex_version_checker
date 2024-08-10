@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Added support for codem-inventory, origin_inventory + Minor bugfixes"}
+{"version":"1.0.4", "notes":"Fixed HasItem for supported inventories"}
