@@ -1,1 +1,1 @@
-{"version":"1.0.8", "notes":"Fixed HasItem for supported inventories"}
+{"version":"1.0.9", "notes":"Added amount for ingredients shop, added personallocker size & Moved clothing to apex_lib"}
