@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"New Release"}
+{"version":"1.0.1", "notes":"Added amount for ingredients shop, added personallocker size & Moved clothing to apex_lib"}
