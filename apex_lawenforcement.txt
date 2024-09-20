@@ -1,1 +1,1 @@
-{"version":"1.2.3", "notes":"Fixed issues with Gunrack not opening or unable to install - This should work for all inventories now - If not, please open a ticket"}
+{"version":"1.2.4", "notes":"Updated exports for ps-inventory - If you are on an old ps-inventory, please update to the latest one"}
