@@ -1,1 +1,1 @@
-{"version":"1.0.9", "notes":"Added amount for ingredients shop, added personallocker size & Moved clothing to apex_lib"}
+{"version":"1.1.0", "notes":"Added the option to pet the cats & Allowed to change and add locations for them + Added mystery boxes"}
