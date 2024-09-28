@@ -1,1 +1,1 @@
-{"version":"1.2.4", "notes":"Updated exports for ps-inventory - If you are on an old ps-inventory, please update to the latest one"}
+{"version":"1.2.5", "notes":"Fixed money seizing issue + Other minor bugfixes"}
