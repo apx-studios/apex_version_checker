@@ -1,1 +1,1 @@
-{"version":"1.1.1", "notes":"Updated exports for ps-inventory - If you are on an old ps-inventory, please update to the latest one + Added Closed Store Shop outside feature"}
+{"version":"1.1.2", "notes":"Added showing price for ingredients / materials + ESX Now shows the name of the item and not the slug for the item + bugfixes"}
