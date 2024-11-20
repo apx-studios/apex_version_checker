@@ -1,1 +1,1 @@
-{"version":"1.2.5", "notes":"Fixed money seizing issue + Other minor bugfixes"}
+{"version":"1.2.6", "notes":"Added showing price for armory items + bugfixes"}
