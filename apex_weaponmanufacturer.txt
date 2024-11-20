@@ -1,1 +1,1 @@
-{"version":"1.0.5", "notes":"Added amount for materials shop"}
+{"version":"1.0.6", "notes":"Added showing price for ingredients / materials + ESX Now shows the name of the item and not the slug for the item + bugfixes"}
