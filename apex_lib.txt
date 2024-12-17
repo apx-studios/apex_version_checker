@@ -1,1 +1,1 @@
-{"version":"1.2.0", "notes":"Added TargetModel Function for new Cat Cafe Feature"}
+{"version":"1.2.1", "notes":"Removed MenanAK47 Key support (We do not support leakers)."}
