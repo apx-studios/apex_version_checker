@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"Weapon Recipe Bug has been fixed"}
+{"version":"1.0.8", "notes":"Fixed issue on ESX Itemlist in crafting items now showing up"}
