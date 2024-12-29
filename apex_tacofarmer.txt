@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Bugfixes"}
+{"version":"1.0.2", "notes":"Fixed issue on ESX Itemlist in crafting items now showing up"}
