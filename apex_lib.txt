@@ -1,1 +1,1 @@
-{"version":"1.2.2", "notes":"ox_target does no longer needs to be moved down for (Fixed issue) + Added support for renewed-fuel"}
+{"version":"1.2.2", "notes":"ox_target does no longer needs to be moved down for (Fixed issue) + Added support for renewed-fuel + Minor bugfix"}
