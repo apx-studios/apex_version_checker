@@ -1,1 +1,1 @@
-{"version":"1.1.3", "notes":"Fixed issue on ESX Itemlist in crafting items now showing up"}
+{"version":"1.1.4", "notes":"Off duty store option + Mystery Boxes + Multiple item crafting so you can craft more than one of the item add one time - These are in testing face for this script alone, please report back if meeting issues on this, so we can add it to other scripts"}
