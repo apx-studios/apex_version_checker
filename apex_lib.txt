@@ -1,1 +1,1 @@
-{"version":"1.2.2", "notes":"ox_target does no longer needs to be moved down for (Fixed issue) + Added support for renewed-fuel + Minor bugfix"}
+{"version":"1.2.3", "notes":"Added lb-tablet support - You can now open the tablet through the police radial menu"}
