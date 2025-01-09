@@ -1,1 +1,1 @@
-{"version":"1.0.8", "notes":"Fixed issue on ESX Itemlist in crafting items now showing up"}
+{"version":"1.0.9", "notes":"Added a completely new readme.md file to guide you to the best installation + Removed underlines from all items to get ox_inventory users a easier installation"}
