@@ -1,1 +1,1 @@
-{"version":"1.2.3", "notes":"Added lb-tablet support - You can now open the tablet through the police radial menu"}
+{"version":"1.2.4", "notes":"Added tgiann-inventory support"}
