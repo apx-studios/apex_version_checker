@@ -1,1 +1,1 @@
-{"version":"1.2.4", "notes":"Added tgiann-inventory support"}
+{"version":"1.2.5", "notes":"Added tgiann-clothing support"}
