@@ -1,1 +1,1 @@
-{"version":"1.0.5", "notes":"Fixed wrong trigger for esx: Replace /source/client/client.lua"}
+{"version":"1.0.6", "notes":"Fixed wrong trigger for esx: Replace /source/client/client.lua"}
