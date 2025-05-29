@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"Fixed HasItem for supported inventories"}
+{"version":"1.0.8", "notes":"Fixed wrong trigger for esx: Replace /source/client/client.lua"}
