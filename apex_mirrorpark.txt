@@ -1,1 +1,1 @@
-{"version":"1.0.9", "notes":"Added amount for shop"}
+{"version":"1.1.0", "notes":"Fixed issue with jetski not being deleted on return + Potential fuel issue"}
