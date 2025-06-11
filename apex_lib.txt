@@ -1,1 +1,1 @@
-{"version":"1.2.9", "notes":"Added tgiann-hotwire support"}
+{"version":"1.3.0", "notes":"Added tgiann Notification Support"}
